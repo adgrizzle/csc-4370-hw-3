@@ -66,7 +66,7 @@
 			foreach ($matches as $m) {
 				$str ="
 				<div class='match'>
-					<img src='images/user.png' alt="User">
+					<img src='images/user.png' alt='User'>
 					<p>$m[0]</p>
 					<ul>
 						<li><strong>gender:</strong>$m[1]</li>
