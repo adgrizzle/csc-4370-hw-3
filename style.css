@@ -1,0 +1,26 @@
+/* Some additional style */
+
+.link {
+	display: flex; 
+	align-items: center;
+}
+.link img {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	margin-right: 5px;
+}
+
+#footer {
+	margin-top: 2em;
+	margin-bottom: 3em;
+	width: 34em;
+}
+
+input[type="submit"] {
+	margin-top: 10px;
+}
+
+.field {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
